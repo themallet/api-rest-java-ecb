@@ -1,4 +1,4 @@
-package com.fiap.ecb.model;
+package com.fiap.ecb.api.model;
 
 import jakarta.persistence.*;
 
